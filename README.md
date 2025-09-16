@@ -39,7 +39,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="illustrator logo"  />
 </div>
 
-###
 
 <div align="left">
   <a href="https://www.youtube.com/@wesPutman" target="_blank">
