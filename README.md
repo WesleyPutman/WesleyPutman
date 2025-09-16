@@ -4,6 +4,7 @@
 
 <img align="right" height="150" src="https://media.licdn.com/dms/image/v2/D4E03AQEL5p6rmLcyaw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1713280195535?e=1761177600&v=beta&t=9gC28goNqLx7q6_CrP61owNOVOQnd7TZOH0ltHEkMu0"  />
 
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -39,6 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="illustrator logo"  />
 </div>
 
+###
 
 <div align="left">
   <a href="https://www.youtube.com/@wesPutman" target="_blank">
@@ -54,7 +56,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=WesleyPutman&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
