@@ -4,7 +4,6 @@
 
 <img align="right" height="150" src="https://media.licdn.com/dms/image/v2/D4E03AQEL5p6rmLcyaw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1713280195535?e=1761177600&v=beta&t=9gC28goNqLx7q6_CrP61owNOVOQnd7TZOH0ltHEkMu0"  />
 
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
